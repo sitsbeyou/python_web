@@ -1,0 +1,54 @@
+在base_site.html改
+
+
+
+
+1.将所有trans后面的改为对应中文即可
+2.将你想要修改的英文全文搜索即可
+Log out 登出
+
+Home 主页
+
+Widget Options 组件选择
+Remove 移除
+Close 关闭
+Save changes 保持修改
+
+Success 成功
+Add Success, click <a id='change-link'>edit</a> to edit.
+添加成功, 点击 <a id='change-link'>编辑</a>编辑
+Quick Add 快速添加
+
+History 历史
+Revert this revision
+恢复此修订 这个翻译好挫,不想改了,但还是改了
+
+Date/time 日期/时间
+
+Change multiple objects
+更改多个对象
+
+Show all 全部
+Search 搜索
+Apply 应用
+Clean 清除
+
+Clear seletion清除选择
+Click here to select the objects across all pages
+单击此处可选择所有页面中的对象
+
+Prev step
+上一步
+Next step
+下一步
+
+Change password
+更改密码
+
+Enter your new password.
+输入您的新密码
+
+Export 导出
+Columns 列
+
+
