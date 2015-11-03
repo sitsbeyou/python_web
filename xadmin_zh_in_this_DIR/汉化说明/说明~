@@ -1,0 +1,10 @@
+1.书签功能:改回来要将model_list.nav_menu.bookmarks.html替换
+
+### 这个还没有成功
+2.最特殊的是%(sel)s of %(cnt)s selected, 在/xadmin/static/xadmin/js/xadmin.plugin.actions.js 里有一个:
+ $(options.counterContainer).html(interpolate(
+            ngettext('%(sel)s of %(cnt)s selected', '%(sel)s of %(cnt)s selected', sel), {
+                sel: sel,
+                cnt: _actions_icnt
+            }, true));
+3.其他地方按xadmin/locale/zh_CN/LC_MESSAGES/django.po改就是
